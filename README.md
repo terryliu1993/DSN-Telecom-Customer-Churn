@@ -2,6 +2,8 @@
 
 	Customer Loyalty Analysis: DSN Telecom Customer Churn
 
+About: This is a kaggle project finished by me, please check the original dataset at https://www.kaggle.com/c/dsn-telecom-customer-churn/data
+
 o	Analyze customer loyalty in 3 dimensions: demographics, service subscriptions and account information, then use supervised learning to predict customer churn based on these features
 
 o	Load CSV file, identify data and perform data manipulation on categorical data for exploratory data analysis and modelling
